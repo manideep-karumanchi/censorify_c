@@ -1,0 +1,13 @@
+{ 
+	"name": "censorify", 
+	"version": "0.0.1", 
+	"description": "censor bad words", 
+	"main": "censortext",
+	"dependencies" : { 
+	},
+	"repository":{
+		"type": "git",
+		"url": "https://github.com/manideep-karumanchi/censorify_c/censorify"
+	}
+	
+ }
